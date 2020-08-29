@@ -3,7 +3,8 @@
 
 **Virtual reality experiments for cognitive science**
 
-Jonathan MIRAULT & Stephane DUFAU--
+Jonathan MIRAULT & Stephane DUFAU
+--
 _Laboratoire de psychologie cognitive_
 _CNRS &amp; Aix-Marseille University, France_
 
