@@ -1,14 +1,15 @@
 
-<p align="justify">
-
-**Virtual reality experiments for cognitive science**
-
-Jonathan MIRAULT & Stephane DUFAU
-
-_Laboratoire de psychologie cognitive_
-_CNRS &amp; Aix-Marseille University, France_
-
+<p align="center">
+  <b>Virtual reality experiments for cognitive science</b>
+  <br><br>
+  Jonathan MIRAULT & Stephane DUFAU
+  <br>
+  <i>CNRS &amp; Aix-Marseille University, France</i>
 </p>
+
+
+
+
 
 ---
 
