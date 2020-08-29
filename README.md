@@ -6,24 +6,11 @@
   <br>
   <i>CNRS &amp; Aix-Marseille University, France</i>
 </p>
-<<<<<<< HEAD
 <p>
 </p>
 
-
 ---
 
-
-=======
-
-
-
-
-
----
-
-
->>>>>>> 1a0f1596bdf4369e4d6cac63ca1dc93436c7fc10
 This guide makes use of the following Virtual Reality setup:
 
 - one **DELL Precision desktop** (Intel Core i7 8700K processor, 6 cores at 3.7 Ghz; 16 GB of RAM) with a NVIDIA GTX 1060 graphic card. The monitor was standard.
@@ -35,3 +22,8 @@ You can refer to the related scientific article published at XXX.
 
 ---
 
+![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
+
+
+
+[GRAPHO_script_example]: https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/GRAPHO_script_example.png "Unity and virtual reality headsets for cognitive science"
