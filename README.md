@@ -1,5 +1,5 @@
 
-<p align="center">
+<p style="text-align: center;">
 
 **Virtual reality experiments for cognitive science**
 
