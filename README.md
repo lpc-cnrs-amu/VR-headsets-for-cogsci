@@ -5,10 +5,8 @@
   Jonathan MIRAULT & Stephane DUFAU
   <br>
   <i>CNRS &amp; Aix-Marseille University, France</i>
-</p>
-<p>
-</p>
-<p>
+  <br><br>
+  <br><br>
 </p>
 
 ![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
