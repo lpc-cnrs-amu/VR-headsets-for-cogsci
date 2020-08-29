@@ -8,8 +8,10 @@
 </p>
 <p>
 </p>
+<p>
+</p>
 
----
+![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
 
 This guide makes use of the following Virtual Reality setup:
 
@@ -22,7 +24,6 @@ You can refer to the related scientific article published at XXX.
 
 ---
 
-![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
 
 
 
