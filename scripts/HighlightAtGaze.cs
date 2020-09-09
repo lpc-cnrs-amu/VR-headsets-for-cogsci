@@ -1,3 +1,9 @@
+// Virtual reality experiments for cognitive science
+// Jonathan MIRAULT and Stephane DUFAU
+// Laboratoire de psychologie cognitive
+// CNRS & Aix-Marseille University, France
+// Original code from Tobii
+
 // Copyright © 2018 – Property of Tobii AB (publ) - All Rights Reserved
 
 using Tobii.G2OM;

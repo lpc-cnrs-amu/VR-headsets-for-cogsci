@@ -2,9 +2,8 @@
 // Jonathan MIRAULT and Stephane DUFAU
 // Laboratoire de psychologie cognitive
 // CNRS & Aix-Marseille University, France
-// Original code from Tobii VR examples
 //
-// Each time a controller is updated, its positional information is recorded.
+// Each time a controller is updated, its position is recorded.
 // When the program quits, data is saved.
 
 using System.Collections;

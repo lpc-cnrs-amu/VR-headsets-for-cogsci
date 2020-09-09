@@ -4,8 +4,8 @@
 // CNRS & Aix-Marseille University, France
 // Original code from Tobii VR examples
 //
-// Each time the eye position is updated (90 Hz sampling rate), the position and
-// orientation of the eye is recorded. When the program quits, data is saved.
+// Each time the eye position is updated (90 Hz sampling rate), the position of 
+// the eye is recorded. When the program quits, data is saved.
 
 using System.Collections;
 using System.Collections.Generic;
