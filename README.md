@@ -9,12 +9,11 @@
   <br><br>
 </p>
 
-<p align="center">
+
 ![Virtual reality headsets icon][headset_icon]
-</p>
-<p align="center">
+<p></p>
 ![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
-</p>
+
 This guide makes use of the following Virtual Reality setup:
 
 - one **DELL Precision desktop** (Intel Core i7 8700K processor, 6 cores at 3.7 Ghz; 16 GB of RAM) with a NVIDIA GTX 1060 graphic card. The monitor was standard.
