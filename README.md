@@ -1,10 +1,10 @@
 
-<table style="border: none;">
-    <tr>
-        <td>
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
         	<b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
         </td>
-        <td>
+        <td style="border: none;">
         	<img align="right" width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
         </td>
     </tr>
