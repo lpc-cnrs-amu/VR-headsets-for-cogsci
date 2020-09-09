@@ -27,7 +27,6 @@ This guide makes use of the following Virtual Reality setup:
 
 The scientific programs created in this guide were successfully tested on both the HTC and the FOVE headsets. Chosen software is free-of-use.
 
-You can refer to the related scientific article published at XXX.
 
 ---
 
@@ -37,6 +36,7 @@ To help conceive and start a protocol, we present a workflow from software insta
 
 https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/blob/master/guide/VR_GUIDE_FOR_EXPERIMENTS.pdf
 
+Additional scripts, and possibly video soon, can be found in the *scripts+ folder.
 
 [GRAPHO_script_example]: https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/GRAPHO_script_example.png "Unity and virtual reality headsets for cognitive science"
 
