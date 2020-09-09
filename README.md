@@ -1,4 +1,6 @@
-<img align="center" width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
+<p align="center">
+  <img width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
+</p>
 <p align="center">
   <b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
   <br><br>
