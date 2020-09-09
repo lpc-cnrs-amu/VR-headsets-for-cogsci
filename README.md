@@ -1,3 +1,9 @@
+# The project
+
+The purpose of this article is to present a straightforward workflow suitable for **cognitive scientists** interested in using **virtual reality headsets**.
+The workflow starts from the installation of third-party software (mainly the Unity engine) to the insertion of simple C# scripts that are able to collect data from the various available headset sensors. 
+The proposed workflow, simple enough to be implemented within a few hours, can help scientists in many domains to achieve their first tests and experiments in the laboratory setting.
+
 <p align="center">
   <img width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
 </p>
