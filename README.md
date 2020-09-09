@@ -1,5 +1,33 @@
 
+
+
+
 <p align="center">
+
+	<table>
+
+		<tr>
+
+		<td>
+<b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
+<br><br>
+  Jonathan MIRAULT & Stephane DUFAU
+  <br>
+  <i>CNRS &amp; Aix-Marseille University, France</i>
+  <br><br>
+  <br><br>
+  
+		</td>
+		<td>
+  <img align="right" width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
+
+		</td>
+
+		</tr>
+
+	</table>
+	</p>
+	<p align="center">
   <b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
   <img align="right" width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
   <br><br>
