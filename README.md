@@ -1,5 +1,5 @@
 
-<table>
+<table style="border: none;">
     <tr>
         <td>
         	<b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
