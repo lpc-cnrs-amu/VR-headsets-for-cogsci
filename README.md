@@ -25,6 +25,11 @@ You can refer to the related scientific article published at XXX.
 
 ---
 
+# A practical guide
+
+To help conceive and start a protocol, we present a workflow from software installation to the realization of a simple experiment.
+
+https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/blob/master/guide/VR_GUIDE_FOR_EXPERIMENTS.pdf
 
 
 [GRAPHO_script_example]: https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/GRAPHO_script_example.png "Unity and virtual reality headsets for cognitive science"
