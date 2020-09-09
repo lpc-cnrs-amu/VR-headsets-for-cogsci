@@ -1,6 +1,7 @@
 
 <p align="center">
   <b>Virtual reality headsets for behavioral experiments:<br>a practical guide</b>
+  <img align="right" width="100" height="100" src="https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png">
   <br><br>
   Jonathan MIRAULT & Stephane DUFAU
   <br>
@@ -10,8 +11,6 @@
 </p>
 
 
-![Virtual reality headsets icon][headset_icon]
-<p></p>
 ![Unity and virtual reality headsets for cognitive science][GRAPHO_script_example]
 
 This guide makes use of the following Virtual Reality setup:
@@ -27,6 +26,5 @@ You can refer to the related scientific article published at XXX.
 
 
 
-[headset_icon]: https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/Headset_icon.png "Virtual reality headsets icon"
 [GRAPHO_script_example]: https://github.com/lpc-cnrs-amu/VR-headsets-for-cogsci/raw/master/images/GRAPHO_script_example.png "Unity and virtual reality headsets for cognitive science"
 
